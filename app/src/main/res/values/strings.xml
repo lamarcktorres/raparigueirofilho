@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AppVerao</string>
+    <string name="media_player">Player de Músicas</string>
+    <string name="raparigueiro_filho">Raparigueiro Filho</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
